@@ -1,0 +1,148 @@
+
+header {
+    display: flex;
+}
+
+.imagen-principal {
+    display: flex;
+    background-image: url(./Imagenes/Contacto.jpg);
+    background-repeat: no-repeat;
+    width:1300px;
+  
+
+}
+
+.titulo {
+    background-color: white;
+    padding: 10px;
+    margin: 80px;
+    font-family: sans-serif;
+    border: 5px black solid;
+}
+
+.menu {
+    width: 500px;
+    position: absolute;
+    right: 0;
+    font-size: 16.5px;
+    
+}
+
+.menu a{
+     margin-left: 5px
+     
+}
+a
+{
+color: black;
+
+}
+
+.fondo {
+    background-image: url("./Imagenes/Ubicacion.jpg");
+   
+}
+
+.Cuadro {
+    background-color: white;
+    padding: 5px;
+    margin:10px;
+    font-family: sans-serif;
+    border: 5px saddlebrown solid;
+    background-color: tan;
+    color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  
+}
+
+.Color {
+
+    background-color: white;
+    padding: 10px;
+    margin: 80px;
+    font-family: sans-serif;
+    border: 5px saddlebrown  solid;
+    background-color: tan;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+.HeadLine {
+
+    font-size: 45px;
+    background-color: white;
+    padding: 10px;
+    margin: 80px;
+    font-family: sans-serif;
+    border: 5px saddlebrown solid;
+    background-color: tan;
+    
+}
+
+.Subtitulo {
+
+    font-size: 40px;
+}
+
+.Fondo2 {
+
+    background-image: url("./Imagenes/Productos2.jpg");
+}
+
+.headline2 {
+
+    font-size: 50px;
+    border: 5px white solid;
+    background-color: white;
+}
+
+.SuperTitle {
+
+    font-size: 40px;
+}
+
+.SubTitle {
+
+    font-size: 30px;
+}
+
+.boton-popup{
+
+    font-size: 20px;
+    padding: 10px;
+    margin: 5px;
+    font-family: sans-serif;
+    border: 5px palevioletred solid;
+    background-color: palevioletred;
+
+}
+
+.producto-nombre {
+
+    font-size: 25px;
+    border: 0px white solid;
+    
+    
+}
+
+.fila-imagenes {
+    display: flex;
+    justify-content: space-evenly;
+    cursor: pointer;
+    display: flex;
+    justify-content: space-evenly
+}
+
+.boton {
+
+    t-size: 20px;
+    padding: 10px;
+    margin: 5px;
+    font-family: sans-serif;
+    border: 5px palevioletred solid;
+    background-color: palevioletred;
+    cursor: pointer;
+    display: flex;
+    justify-content: space-evenly
+
+}
