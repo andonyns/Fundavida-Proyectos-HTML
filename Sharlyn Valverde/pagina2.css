@@ -1,0 +1,129 @@
+header h1{
+     font-family: "Mystery Quest", cursive;
+  font-size: 300%;
+   
+    color:white;
+    text-align:center;
+    border-radius:200px;
+}
+
+.menu li{
+    
+     font-size:100%;
+   
+     background-color:white;
+      width:10%;
+       height:20%;
+        text-color:white;
+    display: inline;
+     borde-radius:90px;
+    text-align:center;
+   float: right;
+     
+}
+
+ .menu li a{
+   
+        color:black;
+    text-decoration:none;
+      
+}
+
+
+section{
+     font-size:120%;
+     width:600px;
+       height:20%;
+    display:block;
+      margin-bottom:20px;
+}
+
+
+aside{
+    
+     font-size:120%;
+     width:600;
+       height:20%;
+    display:right;
+      margin-bottom:30px;
+}
+
+
+
+.lista{
+    display:flex;
+    flex-direction: column;
+     font-size:30px;
+      margin-bottom:10px;
+    
+      
+ 
+}
+
+.lista li{
+        width:600px;
+    height:30px;
+   color:white;
+}
+
+nav li{
+     background-color:none;
+      
+        text-color:blue;
+    display: inline;
+     
+    text-align:center;
+   float: right;
+     
+}
+
+nav li a{
+    
+        color:white;
+    text-decoration: none;
+}
+
+div{
+    display:flex;
+      width: 100%;
+    height: 100%
+
+}
+
+body{
+      
+    background-image: url("imagenes/fondo.jpg");
+    
+    background-size: contain;
+    
+}
+
+@MEDIA ONLY SCREEN AND (mAX-WIDTH:620PX)
+{
+    .MENSAJE
+    {font-size: 80PX;
+    COLOR:GREEN;
+    }
+    @media only screen
+
+and (min-device-width : 768px)
+
+and (max-device-width : 1024px)
+
+and (orientation : portrait) {
+
+}
+
+@media only screen
+
+and (min-width : 1224px) {
+
+
+@media only screen
+
+and (min-width : 1824px) {
+
+}
+
+    
+}

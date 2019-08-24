@@ -1,0 +1,81 @@
+
+
+header h1{
+     font-family: "Mystery Quest", cursive;
+  font-size: 300%;
+   
+    color:white;
+    text-align:center;
+    border-radius:200px;
+    }
+
+nav li{
+     background-color:white;
+      width:10%;
+       height:20%;
+        text-color:white;
+    display: inline;
+     borde-radius:100px;
+    text-align:center;
+   float: right;
+     
+}
+
+nav li a{
+ 
+        color: black;
+    text-decoration: none;
+}
+
+div{
+    
+    width:100%;
+    display:flex;
+}
+
+body{
+      
+    background-image: url("imagenes/fondo.jpg");
+   
+    background-size: contain;
+    
+}
+
+section{
+    width:700px;
+       height:10%;
+} 
+aside{
+    width:700px;
+       height:10%;
+}
+
+@MEDIA ONLY SCREEN AND (mAX-WIDTH:620PX)
+{
+    .MENSAJE
+    {font-size: 80PX;
+    COLOR:GREEN;
+    }
+    @media only screen
+
+and (min-device-width : 768px)
+
+and (max-device-width : 1024px)
+
+and (orientation : portrait) {
+
+}
+
+@media only screen
+
+and (min-width : 1224px) {
+
+
+@media only screen
+
+and (min-width : 1824px) {
+
+}
+
+    
+}
