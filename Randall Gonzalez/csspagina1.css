@@ -1,0 +1,78 @@
+#contenedor {
+        width: 1200px;
+        
+       }
+      #cabecera { 
+        
+     
+      }
+      #menu {
+        margin: 30px;
+        float: left;
+        font-weight: 300;
+        padding: 15px;
+        white-space: normal;
+        max-width: 360px;
+        width: 200px;
+        color: white;
+        
+      }
+      #contenido {
+        float: left;
+        width: 550px;
+       
+      }
+      #pie {
+        clear: both;
+        background: black;
+        padding: 10px;
+      }
+      #principal{
+        padding: 50px;
+        width: 200px;
+        height:500px ;
+      }
+      #secundario{
+        float: right;
+        width: 200px
+      }
+
+      #rotativo{
+        height: 250px; 
+        width:200px;
+        border: 1px solid black;
+        
+        
+      }
+      #parteabajo{
+        height: 250px; 
+        width:200px;
+        border: 1px solid black;
+      } 
+      #video{
+        float: right;
+      }
+      #pf{
+        color:white;
+        
+      }
+      .opsuperior{
+        
+      }
+      #logo{
+        float: right;
+      }
+      #listasuperior{
+        display: none;
+      }
+      #listainferior{
+        display: none;
+      }
+      .cuerpo{
+        background-image: url("https://cdn.pixabay.com/photo/2017/10/23/16/04/milky-way-2881461_960_720.jpg");
+     
+      }
+      #nombre{
+        color: white;
+      }
+      
