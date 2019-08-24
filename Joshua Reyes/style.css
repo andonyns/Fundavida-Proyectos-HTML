@@ -1,0 +1,26 @@
+body{
+   
+   background-image: url(https://i.pinimg.com/originals/c8/7f/ba/c87fba47cb763d0672fd7c98e1b36878.jpg); 
+   background-position: center ;
+   background-repeat: no-repeat;
+   width: 50px;
+   height: 50px;
+}
+   section{
+      width: 500px;
+    background-color:aqua
+    
+   }
+   header{
+
+    display: flex
+   }
+   aside{ 
+      width: 500px;
+background-color:aqua
+
+   }
+
+   footer{
+      background-color: aqua
+   }

@@ -1,0 +1,35 @@
+.cabesa
+{
+
+border: 1px black solid;
+background-color: #FFC107;;
+
+}
+body
+{
+    background-color: black;
+}
+.esp
+{
+    padding: 543px;
+    padding-top: 100px;
+}
+.inicio
+{
+    
+
+    padding-top: 35px;
+    padding-left: 346px;
+    height: 725px;
+    width: 1026;
+
+}
+.imagen
+{
+    width: 1244px;
+    height: 771px;
+}
+.inf
+{
+color: #FFC107
+}
